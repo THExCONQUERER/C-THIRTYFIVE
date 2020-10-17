@@ -1,1 +1,2 @@
-# C-THIRTYFIVE
+# synchronousBallMovement
+Ball moving synchronously
